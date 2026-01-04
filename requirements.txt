@@ -1,0 +1,18 @@
+# Web Interface
+streamlit
+
+# Agentic Framework
+langgraph
+langchain
+langchain-openai
+
+# Document Processing & Embeddings
+sentence-transformers
+pypdf
+python-docx
+chromadb
+langchain-community
+
+# Utilities
+python-dotenv
+tiktoken
